@@ -18,7 +18,7 @@
   </div>
 </template>
 <script>
-import OrderDetails from "../components/OrderDetails.vue";
+import OrderDetails from "../components/OrderDetails.vue"; 
 import apiClient from "@/services/apiClient";
 export default {
   data() {
