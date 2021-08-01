@@ -71,10 +71,5 @@ export default {
       return tsum;
     },
   },
-  mounted: {
-    getRequestToken() {
-      this.getRequestToken();
-    },
-  },
 };
 </script>

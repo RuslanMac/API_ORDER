@@ -6,7 +6,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/orders',
+    path: '/',
     name: 'Order',
     component: Order
   },
